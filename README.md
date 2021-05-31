@@ -10,8 +10,11 @@ Deep Generative model을 이용한 웹툰 스타일 이미지 생성
 팀장: 박재성
 팀원: 박지훈, 백서희, 유상민
 
-## 예상 구현도
+## 세부 내용
+U-GAT-IT 모델을 이용한 이미지 생성 기법 사용
 
+## 예상 구현도
+![SW-PBL](https://user-images.githubusercontent.com/62353647/120147755-22981180-c222-11eb-95ca-11fc978d6402.jpg)
 
 ## 참고자료
 + 논문: Kim, J., Kim, M., Kang, H., & Lee, K. (2019). U-GAT-IT: unsupervised generative attentional networks with adaptive layer-instance normalization for image-to-image translation. arXiv preprint arXiv:1907.10830.
